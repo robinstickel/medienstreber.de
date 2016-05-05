@@ -1,7 +1,7 @@
 medienstreber.de source
 =================================================
 
-Medienstreber is a small sideproject running at [medienstreber.de](http://medienstreber.de). The site is built with [Jekyll](https://jekyllrb.com/) and hosted with [domainfactory](http://www.df.eu/kwk/480999).
+Medienstreber is a small side project running at [medienstreber.de](http://medienstreber.de). The site is built with [Jekyll](https://jekyllrb.com/) and hosted with [domainfactory](http://www.df.eu/kwk/480999).
 
 About this project
 =======
